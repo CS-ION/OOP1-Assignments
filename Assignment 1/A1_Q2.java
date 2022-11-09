@@ -1,9 +1,3 @@
-// -------------------------------------------------------------------------------
-// Assignment 1
-// Written by: Syed Ayaan Jilani ; 40209519
-// For COMP 248 Section U – Winter 2022
-// Date : 21th January 2022
-// ---------------------------------------------------------------------------------
 
 /* -------------------------------------------------------------------------------
  *                            PROGRAM DESCRIPTION
@@ -14,7 +8,7 @@
  *
  * The program calculates and outputs the following :-
  * 1) Yearly Depriciation Value [D = (P - S) / Y]
- * 2) Yearly depreciation Percentage [dPercentage = (D/P) × 100]
+ * 2) Yearly depreciation Percentage [dPercentage = (D/P) Ã— 100]
  * 3) Number of years for salvage value to become 50% of purchase price [yHalfValue = (P - (P/2))/D]
  * 
  * The program terminates by displaying a farewell message.
